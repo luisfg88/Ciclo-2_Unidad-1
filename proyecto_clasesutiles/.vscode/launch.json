@@ -1,0 +1,189 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Ejercicio18",
+            "request": "launch",
+            "mainClass": "co.edu.utp.misiontic2022.c2.Ejercicio18",
+            "projectName": "proyecto_clasesutiles"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio16",
+            "request": "launch",
+            "mainClass": "co.edu.utp.misiontic2022.c2.Ejercicio16",
+            "projectName": "proyecto_clasesutiles"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "co.edu.utp.misiontic2022.c2.App",
+            "projectName": "proyecto_clasesutiles"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio1",
+            "request": "launch",
+            "mainClass": "co.edu.utp.misiontic2022.c2.Ejercicio1",
+            "projectName": "proyecto_clasesutiles"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio10",
+            "request": "launch",
+            "mainClass": "co.edu.utp.misiontic2022.c2.Ejercicio10",
+            "projectName": "proyecto_clasesutiles"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio11",
+            "request": "launch",
+            "mainClass": "co.edu.utp.misiontic2022.c2.Ejercicio11",
+            "projectName": "proyecto_clasesutiles"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio12_dowhile",
+            "request": "launch",
+            "mainClass": "co.edu.utp.misiontic2022.c2.Ejercicio12_dowhile",
+            "projectName": "proyecto_clasesutiles"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio12_for",
+            "request": "launch",
+            "mainClass": "co.edu.utp.misiontic2022.c2.Ejercicio12_for",
+            "projectName": "proyecto_clasesutiles"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio12_while",
+            "request": "launch",
+            "mainClass": "co.edu.utp.misiontic2022.c2.Ejercicio12_while",
+            "projectName": "proyecto_clasesutiles"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio13",
+            "request": "launch",
+            "mainClass": "co.edu.utp.misiontic2022.c2.Ejercicio13",
+            "projectName": "proyecto_clasesutiles"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio14",
+            "request": "launch",
+            "mainClass": "co.edu.utp.misiontic2022.c2.Ejercicio14",
+            "projectName": "proyecto_clasesutiles"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio15",
+            "request": "launch",
+            "mainClass": "co.edu.utp.misiontic2022.c2.Ejercicio15",
+            "projectName": "proyecto_clasesutiles"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio15_alternativa",
+            "request": "launch",
+            "mainClass": "co.edu.utp.misiontic2022.c2.Ejercicio15_alternativa",
+            "projectName": "proyecto_clasesutiles"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio17",
+            "request": "launch",
+            "mainClass": "co.edu.utp.misiontic2022.c2.Ejercicio17",
+            "projectName": "proyecto_clasesutiles"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio1_alternativa2",
+            "request": "launch",
+            "mainClass": "co.edu.utp.misiontic2022.c2.Ejercicio1_alternativa2",
+            "projectName": "proyecto_clasesutiles"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio1_alternativa3",
+            "request": "launch",
+            "mainClass": "co.edu.utp.misiontic2022.c2.Ejercicio1_alternativa3",
+            "projectName": "proyecto_clasesutiles"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio2",
+            "request": "launch",
+            "mainClass": "co.edu.utp.misiontic2022.c2.Ejercicio2",
+            "projectName": "proyecto_clasesutiles"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio3",
+            "request": "launch",
+            "mainClass": "co.edu.utp.misiontic2022.c2.Ejercicio3",
+            "projectName": "proyecto_clasesutiles"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio4",
+            "request": "launch",
+            "mainClass": "co.edu.utp.misiontic2022.c2.Ejercicio4",
+            "projectName": "proyecto_clasesutiles"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio5",
+            "request": "launch",
+            "mainClass": "co.edu.utp.misiontic2022.c2.Ejercicio5",
+            "projectName": "proyecto_clasesutiles"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio6",
+            "request": "launch",
+            "mainClass": "co.edu.utp.misiontic2022.c2.Ejercicio6",
+            "projectName": "proyecto_clasesutiles"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio7",
+            "request": "launch",
+            "mainClass": "co.edu.utp.misiontic2022.c2.Ejercicio7",
+            "projectName": "proyecto_clasesutiles"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio8",
+            "request": "launch",
+            "mainClass": "co.edu.utp.misiontic2022.c2.Ejercicio8",
+            "projectName": "proyecto_clasesutiles"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio9",
+            "request": "launch",
+            "mainClass": "co.edu.utp.misiontic2022.c2.Ejercicio9",
+            "projectName": "proyecto_clasesutiles"
+        },
+        {
+            "type": "java",
+            "name": "Launch prueba",
+            "request": "launch",
+            "mainClass": "co.edu.utp.misiontic2022.c2.prueba",
+            "projectName": "proyecto_clasesutiles"
+        }
+    ]
+}
